@@ -1,0 +1,25 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.interactiveinvestor.apps.iiandroidapp",
+      "sha256_cert_fingerprints": [
+        "75:E3:82:58:CB:D8:C4:A0:9F:0C:4D:D9:67:C6:A1:58:36:0F:94:E5:DE:2B:B9:9C:15:A7:94:85:E2:2F:92:3F",
+        "1C:5D:37:D7:22:9C:79:AD:52:C7:A5:12:1B:4F:F9:50:37:19:55:98:D7:87:04:BB:AB:93:F6:72:83:48:45:30",
+        "05:95:A2:0B:28:3B:C4:AA:82:A0:48:77:A2:6D:95:26:4C:EC:FC:5D:55:72:AD:26:D9:4A:65:B7:35:B9:74:0F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.ii.mobile.beta",
+      "sha256_cert_fingerprints": [
+        "1C:5D:37:D7:22:9C:79:AD:52:C7:A5:12:1B:4F:F9:50:37:19:55:98:D7:87:04:BB:AB:93:F6:72:83:48:45:30",
+        "05:95:A2:0B:28:3B:C4:AA:82:A0:48:77:A2:6D:95:26:4C:EC:FC:5D:55:72:AD:26:D9:4A:65:B7:35:B9:74:0F"
+      ]
+    }
+  }
+]
